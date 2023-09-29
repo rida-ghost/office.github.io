@@ -1,0 +1,24 @@
+*{
+    font-family: 'Roboto', sans-serif;    
+}
+.text-sky{
+    color: #38cec9;
+}
+/*------ start :: HERO section ------*/
+.hero-section{
+    background-color: #38cec9;
+}
+/*----- end :: HERO section --------*/
+
+/*---- start :: cours -------------*/
+.cours .group-cours  .cours-item{
+    text-decoration: none;
+    color: black;
+}
+.cours .group-cours .cours-index{
+    font-size: 50px;
+    width: 70px;
+}
+/*----end :: cours ---------------*/
+
+
